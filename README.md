@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, This Krishna....</h1>
+<h1 align="center">Hey 👋, This is Krishna....</h1>
 <h3 align="center">Passionate about leveraging data for insights, building intelligent systems</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnakanth22&label=Profile%20views&color=0e75b6&style=flat" alt="krishnakanth22" /> </p>
